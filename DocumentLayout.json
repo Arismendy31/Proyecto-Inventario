@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyects\\FinalProyect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|d:\\proyects\\finalproyect\\finalproyect\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|solutionrelative:finalproyect\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|d:\\proyects\\finalproyect\\finalproyect\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|solutionrelative:finalproyect\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|d:\\proyects\\finalproyect\\finalproyect\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|solutionrelative:finalproyect\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|d:\\proyects\\finalproyect\\finalproyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|solutionrelative:finalproyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|d:\\proyects\\finalproyect\\finalproyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|solutionrelative:finalproyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|d:\\proyects\\finalproyect\\finalproyect\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|solutionrelative:finalproyect\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|d:\\proyects\\finalproyect\\finalproyect\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|solutionrelative:finalproyect\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|d:\\proyects\\finalproyect\\finalproyect\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118FEA16-A73E-407A-A5FE-87509DFFDB87}|FinalProyect\\FinalProyect.csproj|solutionrelative:finalproyect\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form3.cs",
+              "RelativeDocumentMoniker": "FinalProyect\\Form3.cs",
+              "ToolTip": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form3.cs",
+              "RelativeToolTip": "FinalProyect\\Form3.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:21:54.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form4.cs",
+              "RelativeDocumentMoniker": "FinalProyect\\Form4.cs",
+              "ToolTip": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form4.cs",
+              "RelativeToolTip": "FinalProyect\\Form4.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv1wAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:12:24.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form4.cs",
+              "RelativeDocumentMoniker": "FinalProyect\\Form4.cs",
+              "ToolTip": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FinalProyect\\Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T22:16:45.908Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form3.cs",
+              "RelativeDocumentMoniker": "FinalProyect\\Form3.cs",
+              "ToolTip": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FinalProyect\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T22:07:40.754Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form2.cs",
+              "RelativeDocumentMoniker": "FinalProyect\\Form2.cs",
+              "ToolTip": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form2.cs",
+              "RelativeToolTip": "FinalProyect\\Form2.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T21:45:49.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form2.cs",
+              "RelativeDocumentMoniker": "FinalProyect\\Form2.cs",
+              "ToolTip": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FinalProyect\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T21:32:06.887Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalProyect\\Form1.cs",
+              "ToolTip": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form1.cs",
+              "RelativeToolTip": "FinalProyect\\Form1.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAqwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T21:21:03.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalProyect\\Form1.cs",
+              "ToolTip": "D:\\Proyects\\FinalProyect\\FinalProyect\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FinalProyect\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T21:09:42.297Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
